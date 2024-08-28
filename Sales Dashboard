@@ -1,0 +1,9 @@
+This repository contains a Power BI Sales Dashboard project designed to provide insightful visualizations and analytics for sales data.
+The dashboard offers an interactive interface for exploring sales performance, identifying trends, and making data-driven decisions.
+
+Features
+Sales Performance Metrics: Visualize key metrics such as total sales, sales by region, and sales by product category.
+Interactive Filters: Use slicers to filter data by time periods, regions, and product categories.
+Trend Analysis: Track sales trends over time with line charts and area charts.
+Geographical Insights: View sales distribution on a map to identify regional performance.
+Custom Visuals: Utilizes custom Power BI visuals to enhance data presentation and user experience.
